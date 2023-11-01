@@ -11,7 +11,7 @@ $auth = new auth;
     <div class="container">
         <div class="card mt-5">
             <div class="card-header">
-                <h3>Login Account.</h3>
+                <h3>Login Account 2.</h3>
             </div>
             <div class="card-body">
                 <?php
